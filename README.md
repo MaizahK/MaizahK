@@ -169,7 +169,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/JfPpwOA.gif" width="120"/>
+  <img src="https://i.pinimg.com/originals/a5/94/fe/a594fe56fdbdc9c7f29875fccd1bac3c.gif" width="120"/>
   <br/>
   <strong style="color:#ff99cc;">Thanks for visiting! 💖</strong>
 </p>
