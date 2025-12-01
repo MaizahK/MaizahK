@@ -11,10 +11,9 @@
 - 🔭 I’m currently working on **personal projects** to sharpen my coding skills  
 - 🌱 I’m currently learning **ReactJS** (front-end princess arc 💅✨)  
 - 👩‍💻 All of my projects live here: **[github.com/MaizahK](https://www.github.com/MaizahK)**  
-- 📫 Reach me at **maizahkaleem1@gmail.com**  
-- 📄 Check out my experiences:  
-  **[My Resume](https://drive.google.com/file/d/1-sH9uD5KdQMwCTWT84Kbp2uzYyP31SG1/view?usp=drive_link)**
-- ⚡ Fun fact **I have an instagram account to showcase my calligraphy and lettering!**
+- 📫 Reach me at: **maizahkaleem1@gmail.com**  
+- 📄 Check out my experiences:  **[My Resume](https://drive.google.com/file/d/1-sH9uD5KdQMwCTWT84Kbp2uzYyP31SG1/view?usp=drive_link)**
+- ⚡ Fun Fact: **I have an instagram account to showcase my calligraphy and lettering!**
 
 ---
 
@@ -63,7 +62,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=5mbMwDZ796xj&format=png&color=000000" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
