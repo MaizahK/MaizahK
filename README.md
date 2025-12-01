@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[(https://github.com/MaizahK/MaizahK/blob/main/header.png)](https://github.com/MaizahK/MaizahK/blob/main/header.png)" alt="banner that says Maizah Kaleem">
+  <img src="https://github.com/MaizahK/MaizahK/blob/main/header.png" alt="banner that says Maizah Kaleem">
 </p>
 
 
