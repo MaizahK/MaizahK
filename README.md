@@ -1,11 +1,9 @@
-<!-- Pink aesthetic GitHub Profile README -->
-
 <p align="center">
-  <img src="https://i.imgur.com/UM7H2K1.gif" width="120" />
+  <img src="[(https://github.com/MaizahK/MaizahK/blob/main/header.png)](https://github.com/MaizahK/MaizahK/blob/main/header.png)" alt="banner that says Maizah Kaleem">
 </p>
 
-<h1 align="center" style="color:#ff66aa;">🌸 Hi there, I'm <strong>Maizah K.</strong> 🌸</h1>
-<h3 align="center" style="color:#ff99cc;">A backend developer who adores Python, Go, and all things logic, problem-solving & databases 💗</h3>
+
+<h3 align="center" style="color:#ff99cc;">A backend developer who adores Python, Go, and all things logic, problem-solving & databases!</h3>
 
 ---
 
